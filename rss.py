@@ -20,7 +20,7 @@ try:
     bot_token = os.environ.get("BOT_TOKEN")   # Get it by creating a bot on https://t.me/botfather
     log_channel = int(os.environ.get("LOG_CHANNEL"))   # Telegram Channel ID where the bot is added and have write permission. You can use group ID too.
     check_interval = int(os.environ.get("INTERVAL", 10))   # Check Interval in seconds.  
-    max_instances = int(os.environ.get("MAX_INSTANCES", 3))   # Max parallel instance to be used.
+    max_instances = int(os.environ.get("MAX_INSTANCES", 30))   # Max parallel instance to be used.
 except Exception as e:
     print(e)
     print("One or more variables missing. Exiting !")
