@@ -47,3 +47,14 @@ python3 rss.py
 ## Copyright & License
 - Copyright (©) 2021 by [Adnan Ahmad](https://github.com/viperadnan-git)
 - Licensed under the terms of the [GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007](./LICENSE)
+
+
+
+
+
+
+
+
+
+
+[<img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" height="40"/>](https://heroku.com/deploy?template=https://github.com/dialgamew/rss-feed-telegram-bot "Heroku")
